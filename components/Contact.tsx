@@ -1,6 +1,6 @@
 import { dataContact } from '@/data';
 import Tittle from './shared/Tittle';
-import Link from 'next/link'; import { dataServices } from '../data';
+import Link from 'next/link';
 import ContactForm from './ContactForm';
 
 const Contact = () => {
